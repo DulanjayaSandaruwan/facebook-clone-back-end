@@ -7,7 +7,7 @@
     "start": "node app.js",
     "nodemon": "nodemon app.js"
   },
-  "author": "Punarjeewa Rashmitha",
+  "author": "dulans",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
